@@ -22,7 +22,7 @@ The project demonstrates advanced front-end skills including interactivity, anim
 - Safe portfolio showcase using screenshots and live demo  
 
 ---
-## 🌟 Portfolio-Ready Highlights
+## 🌟 Highlights
 - **Interactive UX:** Buttons and elements respond to clicks, hover, and transitions for an engaging experience.  
 - **Animated Fun:** Smooth content fade-ins, bouncing elements, and Alien dance GIFs create playful interactions.  
 - **Responsive Design:** Seamless layout across desktops, tablets, and mobile devices.  
